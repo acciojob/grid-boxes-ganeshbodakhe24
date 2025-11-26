@@ -3,7 +3,7 @@
 	display:grid;
 	color:white;
 	width:100vw;
-	grid-template-columns:auto auto auto auto;
+	  grid-template-columns: 242.5px 242.5px 242.5px 242.5px;
 	grid-template-rows:242.5px 242.5px 242.5px 242.5px;
 	grid-gap:4px;
 }
